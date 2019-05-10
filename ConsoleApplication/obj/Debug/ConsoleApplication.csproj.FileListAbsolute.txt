@@ -1,0 +1,8 @@
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\bin\Debug\AccountsLib.dll
+D:\VisualStudioWorkspace\GettingStarted\ConsoleApplication\bin\Debug\AccountsLib.pdb
